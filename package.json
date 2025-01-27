@@ -1,0 +1,11 @@
+{
+  "name": "Coup Discord Bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that enables people to play Coup on Discord",
+  "main": "bot.js",
+  "author": "Jackson Gregg",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0"
+  }
+}
